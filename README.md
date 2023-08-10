@@ -7,8 +7,9 @@ This is a series of tutorials to get started with IBM Quantum and Qiskit.
 - Python 3.8.5
 
 ## How To Set Up to Use this Tutorial
-1. Download Anaconda: https://www.anaconda.com/
-2. Create a virtual environment using Anaconda
+1. Install Anaconda
+   > brew install --cask anaconda
+3. Create a virtual environment using Anaconda
    > conda create -n qiskit-tutorial python=3.8.5 anaconda
-3. Install Jupyter Lab
-4. Select the new environment and open this repo
+4. Install Jupyter Lab
+5. Select the new environment and open this repo
