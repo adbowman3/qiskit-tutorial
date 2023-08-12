@@ -6,7 +6,7 @@ This is a series of tutorials to get started with IBM Quantum and Qiskit.
 - Jupyter
 - Python 3.8.5
 
-## How To Set Up to Use this Tutorial
+## How To Use this Tutorial
 1. Install Anaconda.
    > brew install --cask anaconda
 2. Create a virtual environment using Anaconda.
