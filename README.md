@@ -20,4 +20,4 @@ This is a series of tutorials to get started with IBM Quantum and Qiskit.
    > cd path/to/qiskit-tutorial
 7. Open Jupyter Lab.
    > jupyter lab
-8. Now, you can use all the Jupyter notebooks in this repository. If you haven't set up an IBMQ account yet, start with 1-set-up-ibmq-account.ipynb.
+8. Now, you can use all the notebooks in this repository. If you haven't set up an IBMQ account yet, start with 1-set-up-ibmq-account.ipynb.
