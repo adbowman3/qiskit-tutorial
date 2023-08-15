@@ -6,6 +6,7 @@ This is a series of tutorials to get started with IBM Quantum and Qiskit.
 - Jupyter
 - Python 3.8.5
 - Qiskit 0.43.2
+- matplotlib 3.7.1
 
 ## How To Use this Tutorial
 1. Install Anaconda.
